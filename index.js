@@ -226,7 +226,7 @@ app.use('/cart', function (req, res) {
 
 
 // --------------------------------------SERVER
-var server = app.listen(port, function () {
+var server = app.listen(process.env.PORT, process.env.IP,function () {
 	var host = server.address().address;
 	var port = server.address().port;
 	console.log('Listening at http://%s:%d', host, port);
