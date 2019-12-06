@@ -1,3 +1,2 @@
-# e-commerce
- Project built using SEAN(sql, express, angularJS, nodeJS) stack for the last year e-commerce course. 
-![Project Preview](./preview.mp4)
+# WELCOME to my Online Store
+ A Project built using SEAN(sql, express, angularJS, nodeJS) stack for the last year e-commerce course. 
